@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nianrong Liang, CPA</title>
-    <link>http://lillianzhang.github.io/tags/</link>
+    <link>http://lillianzhang.github.io/nianrongliang/tags/</link>
     <description>Recent content in Tags on Nianrong Liang, CPA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Nianrong Liang</copyright>
     
-	<atom:link href="http://lillianzhang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lillianzhang.github.io/nianrongliang/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
