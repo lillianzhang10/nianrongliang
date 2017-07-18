@@ -2,10 +2,13 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="amp"
-title = "Your Site Title"
 copyright = "© 2016 Copyright Text"
 canonifyurls = true
 publishDir = "docs"
+
+[menu]
+  about = "/about"
+  resume = "/resume.pdf"
 
 [params]
   description = "Your Site description for top page" #optional

@@ -1,7 +1,8 @@
 ---
 title: "About"
+date: "2017-07-17"
 menu:
-  main:
+  main: about
 ---
 
 This is the About page. Tell the world about yourself here!

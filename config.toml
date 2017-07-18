@@ -1,14 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nianrong Liang, CPA"
 theme="amp"
-copyright = "© 2016 Copyright Text"
+copyright = "© 2017 Nianrong Liang"
 canonifyurls = true
 publishDir = "docs"
 
 [params]
   description = "Your Site description for top page" #optional
-  googleanalytics = "Your Tracking Id" # optional
 
 # optional
 [social]
