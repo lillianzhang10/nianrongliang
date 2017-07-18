@@ -2,49 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Nianrong Liang, CPA</title>
-    <link>http://example.org/</link>
+    <link>http://lillianzhang.github.io/</link>
     <description>Recent content in Welcome on Nianrong Liang, CPA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Nianrong Liang</copyright>
     <lastBuildDate>Sun, 17 Jul 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lillianzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://lillianzhang.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>This is the About page. Tell the world about yourself here!</description>
+      <guid>http://lillianzhang.github.io/about/</guid>
+      <description>This is the About page. Tell the world about yourself here!
+This is my first website! yeah!</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>http://lillianzhang.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>http://lillianzhang.github.io/contact/</guid>
       <description>Put down contact information here.</description>
     </item>
     
     <item>
       <title>Personal Income Tax</title>
-      <link>http://example.org/services/personal-income-tax/</link>
+      <link>http://lillianzhang.github.io/services/personal-income-tax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/services/personal-income-tax/</guid>
+      <guid>http://lillianzhang.github.io/services/personal-income-tax/</guid>
       <description>Write about personal income tax services here!</description>
     </item>
     
     <item>
       <title>Small Business Accounting</title>
-      <link>http://example.org/services/small-business-accounting/</link>
+      <link>http://lillianzhang.github.io/services/small-business-accounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/services/small-business-accounting/</guid>
+      <guid>http://lillianzhang.github.io/services/small-business-accounting/</guid>
       <description>Write about small business accounting here.</description>
     </item>
     
